@@ -14,10 +14,10 @@ comments: true
 <dl>
   <dt>U-Net</dt>
   <dd>The U net is the deep learning model to label images. The network model is illustrated as follows. It consists of a contracting path (left side) and an expansive path (right side).
-  <div style="text-align:center">
-  <img src="/images/projects/ai_img/unet.jpg" width="300" alt="diag of unet"/>
-  <figcaption>Figure: Network architecture of U-net. This figure is taken from Ronneberger [1].</figcaption>
-  </div>
+  <center>
+    <img src="/images/projects/ai_img/unet.jpg" width="300" alt="diag of unet"/>
+    <figcaption>Figure: Network architecture of U-net. This figure is taken from Ronneberger [1].</figcaption>
+  </center>
   At each step on the contracting path, the number of feature channels is double and the size of image is contract. However, every step in the expansive path consists of an upsampling of the feature map and a concatenation with the correspondingly cropped feature map from the contracting path.</dd>
 
   <dt>Lung Data</dt>
