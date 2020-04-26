@@ -3,7 +3,7 @@
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-<link rel="shortcut icon" href="/favicon.ico">
+
 
 <!-- Mathjax Support -->
 <script type="text/javascript" async
@@ -11,7 +11,13 @@
 </script>
 
 <!-- https://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Favicon head tag -->
+<!-- <link rel="icon" href="PATH/TO/favicon.ico" type="image/x-icon"> -->
+<link rel="shortcut icon" href="/favicon.ico">
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';

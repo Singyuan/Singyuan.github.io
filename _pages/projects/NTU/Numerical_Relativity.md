@@ -88,6 +88,10 @@ comments: true
 
 ## Referencess
 
+  1. R. Arnowitt, S. Deser, C. W. Misner, <i>The Dynamics of General Relativity. Gravitation</i>, (1962).
+  2. M. W. Choptuik, <i>Consistency of finite-difference solutions of Einstein equations</i>, (1991).
+  3. M. W. Choptuik, <i>Universality and Scaling in Gravitational Collapse of a Massless Scalar Field</i>, (1993).
+
 ## Acknowledgements
 
   I sincerely thank Dr. Peming Ho and Dr. ChunHao Teng for the guidance and assistance.

@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/NTU/AI_Image.html
-excerpt: This project cooperates with Dr. W.C. Wang
+excerpt: This project cooperates with Dr. Weichung Wang and Chiatse Wang.
 header:
   overlay_image: /images/projects/subheads.jpg
   overlay_filter: 0.5
@@ -66,8 +66,8 @@ output label of the training or test data (down figure).
 
 ## References
 
-  [1] Olaf Ronneberger, Philipp Fischer, Thomas Brox, <i>U-Net: Convolutional Networks for Biomedical Image Segmentation</i>, (2015)
+  1. O. Ronneberger, P. Fischer and T. Brox, <i>U-Net: Convolutional Networks for Biomedical Image Segmentation</i>, (2015).
 
 ## Acknowledgements
 
-  Thanks my classmates Yuehchou Lee and Chiatse Wang.
+  Thanks my classmates Yuehchou Lee and Chiatse Wang. I would like to thank Dr. Wang for the guidance and encouragement.

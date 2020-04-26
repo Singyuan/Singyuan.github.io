@@ -6,7 +6,7 @@ author_profile: true
 comments: false
 ---
 
-<big>Mathematics x Engineer x Traveler</big>
+<big>Welcome! It's a place about mathematics and engineering.</big>
 
 ## Education:
 

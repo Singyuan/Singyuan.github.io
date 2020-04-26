@@ -8,7 +8,6 @@ header:
 title: "Projects"
 author_profile: true
 comments: true
-mathjax: true
 ---
 
 ## National Taiwan University
@@ -22,4 +21,4 @@ mathjax: true
 
 ## National Chiao Tung University
 
-   1. Spatial Entropy in Plane Corner Coloring<br>
+   1. [Spatial Entropy in Plane Corner Coloring](NCTU/Entropy.html)<br>
