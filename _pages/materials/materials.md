@@ -12,7 +12,8 @@ comments: true
 ## Materials of Required or Elective Subjects:
 
   1. [Discrete Minimal Surface](ntu/conform.html)<br>
-  2. [Summation by Part](ntu/mathmodel.html)
+  2. [Summation by Part](ntu/mathmodel.html)<br>
+  3. [Discrete Gaussian Curvature](ntu/gausscurv.html)
 
 ## Teaching Assistant Courses:
 
