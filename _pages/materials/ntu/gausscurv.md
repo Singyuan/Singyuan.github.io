@@ -10,7 +10,7 @@ author_profile: true
 comments: true
 ---
 
-## Discrete Minimal Surface
+## Discrete Gaussian Curvature
 
   This is my original final project in computational conformal Geometry class. I study some paper about discrete Gaussian curvature. However, someone had already reported. Hence, this project is not completed.
 

@@ -22,3 +22,4 @@ comments: true
 ## National Chiao Tung University
 
    1. [Spatial Entropy in Plane Corner Coloring](NCTU/Entropy.html)<br>
+   2. [Predict survival of the people on Titanic by ML](NCTU/ML_titanic.html)<br>
