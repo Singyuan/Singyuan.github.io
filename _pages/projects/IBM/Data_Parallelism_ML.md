@@ -5,7 +5,7 @@ excerpt: This project cooperates with Dr. Andrew Rosenberg, Dr. Minghung Chen, D
 header:
   overlay_image: /images/projects/subheads.jpg
   overlay_filter: 0.5
-title: "Analysis of Data Parallelism Acceleration on Speech Recognition and Synthesis ML Algorithms"
+title: "Analysis of Data Parallelism Acceleration on Speech Recognition and Synthesis Algorithm (TTS)"
 author_profile: true
 comments: true
 ---

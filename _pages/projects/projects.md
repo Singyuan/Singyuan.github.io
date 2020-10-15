@@ -17,9 +17,9 @@ comments: true
 
 ## IBM Thomas J. Watson Research Center
 
-   1. [Data Parallelism Acceleration on Speech Recognition](IBM/Data_Parallelism_ML.html) (ML Algorithm)<br>
+   1. [Data Parallelism Acceleration on Speech Recognition and Synthesis Algorithm](IBM/Data_Parallelism_ML.html) (TTS algorithm)<br>
 
 ## National Chiao Tung University
 
    1. [Spatial Entropy in Plane Corner Coloring](NCTU/Entropy.html)<br>
-   2. [Predict survival of the people on Titanic by ML](NCTU/ML_titanic.html)<br>
+   2. [Predict survival of the people on Titanic by ML](NCTU/ML_titanic2.html)<br>
