@@ -14,6 +14,7 @@ comments: true
   1. [Discrete Minimal Surface](ntu/conform.html)<br>
   2. [Summation by Part](ntu/mathmodel.html)<br>
   3. [Discrete Gaussian Curvature](ntu/gausscurv.html)
+  4. [Diffusion Map](ntu/diffu.html)
 
 ## Teaching Assistant Courses:
 
