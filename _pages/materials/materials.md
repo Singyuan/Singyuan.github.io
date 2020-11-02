@@ -19,3 +19,4 @@ comments: true
 ## Teaching Assistant Courses:
 
   1. [Calculus](ta/calculus.html)<br>
+  2. [Geometry](ta/geometry.html)<br>
