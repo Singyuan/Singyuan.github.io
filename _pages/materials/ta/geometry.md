@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /materials/ta/geometry.html
-excerpt: "This course is presented how to apply calculus on manifold."
+excerpt: "This course show how to apply calculus on manifold."
 header:
   overlay_image: /images/materials/subheads.jpg
   overlay_filter: 0.5
