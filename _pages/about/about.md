@@ -16,6 +16,9 @@ comments: false
 2. <b>National Taiwan University</b> <small><i>Taiwan</i></small> <small>(2017 Jun-2020 Jan)</small><br>
    M.S. in Applied Mathematical Science
 
+3. <b>National Taiwan University</b> <small><i>Taiwan</i></small> <small>(2021 Sep-Now)</small><br>
+   M.S. in Applied Mathematical Science
+
 ## Experience:
 
 1. <b>National Chiao Tung University</b>
@@ -27,6 +30,9 @@ comments: false
 3. <b>National Taiwan University</b><br>
    * <b>Teaching Assistant for Calculus</b> <small>(Jun 2017-Jan 2020)</small>
    * <b>Teaching Assistant for Introduction to Differential Geometry</b> <small>(Sep 2019-Jan 2020)</small>
+
+4. <b>National Center for Theoretical Sciences</b><br>
+   * <b>Research Assistant</b> <small>(Aug 2020-Jun 2021)</small>
 
 ## Other Experience:
 1. <b>Summer course: Mathematics of Gravitational Radiation</b> <small><i>NCTS, Taiwan</i></small> <small>(Jul 2019)</small>
