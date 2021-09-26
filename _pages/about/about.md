@@ -17,7 +17,7 @@ comments: false
    M.S. in Applied Mathematical Science
 
 3. <b>National Taiwan University</b> <small><i>Taiwan</i></small> <small>(2021 Sep-Now)</small><br>
-   M.S. in Applied Mathematical Science
+   Ph.D. Student in Data Science
 
 ## Experience:
 
