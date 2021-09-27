@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yeh76385"
+      # url: "https://twitter.com/yeh76385"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -116,14 +116,14 @@ author:
       url: "https://github.com/Singyuan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/wasisingyuan/"
+      # url: "https://www.instagram.com/wasisingyuan/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/yeh76385"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

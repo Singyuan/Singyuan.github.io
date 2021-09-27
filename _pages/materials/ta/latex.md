@@ -22,14 +22,15 @@ comments: true
 
 * [Symbol](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 
+## Extension
+
 * [mathpix](https://mathpix.com/)
 
 ## Install
 
-* Miktex+TexMaker [Windows](https://leavedcorn.pixnet.net/blog/post/24773932)
+* Windows: Miktex+TexMaker
 
-* MacTex [Mac](https://philip.pixnet.net/blog/post/18367221)
+* Mac: MacTex 
 
-* Miktex+vscode [vscode](https://blog.xhyeax.com/2019/09/14/vscode-latex/)
+* Recommend editor : vscode
 
-* MacTex+vscode [vscode](https://zhuanlan.zhihu.com/p/107393437)
