@@ -14,7 +14,7 @@ comments: true
 
 1. Functions & Limits & Continuous: 
     [10/07](/pdf/materials/ta/calculus110/1007_lim.pdf)<br>
-    <small>Include: inverse function</small>
+    <small>Include: inverse function & slant asymptotes</small>
 
 ## Extension
 
