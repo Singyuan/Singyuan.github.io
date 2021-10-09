@@ -12,9 +12,10 @@ comments: true
 
 ## Notes
 
-1. Functions & Limits & Continuous: 
-    [10/07](/pdf/materials/ta/calculus110/1007_lim.pdf)<br>
-    <small>Include: inverse function & slant asymptotes</small>
+1. Functions & Limits & Continuous (update): 
+    [10/07](/pdf/materials/ta/calculus110/1007_lim.pdf) &ensp; 
+    [note](/pdf/materials/ta/calculus110/1007-handwrite.pdf)<br>
+    <small>Include: inverse trigonometric function & slant asymptotes</small>
 
 ## Extension
 
