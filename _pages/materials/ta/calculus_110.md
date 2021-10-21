@@ -17,6 +17,10 @@ comments: true
     [note](/pdf/materials/ta/calculus110/1007-handwrite.pdf)<br>
     <small>Include: inverse trigonometric function & slant asymptotes</small>
 
+2. Differentiable: 
+    [10/07](/pdf/materials/ta/calculus110/1021_diff.pdf) <br>
+    <small>Include: implicit derivative & tangent line </small>
+
 ## Extension
 
 [NTU Calculus website](http://www.math.ntu.edu.tw/~calc/cl_n_34455.html)
