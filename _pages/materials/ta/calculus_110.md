@@ -25,6 +25,10 @@ comments: true
     [11/04](/pdf/materials/ta/calculus110/1104_graph.pdf) <br>
     <small>Include: graph, L'Hopital rule</small>
 
+4. Integrals: 
+    [11/25](/pdf/materials/ta/calculus110/1125_int.pdf) <br>
+    <small>Include: definition of integral</small>
+
 ## Extension
 
 [NTU Calculus website](http://www.math.ntu.edu.tw/~calc/cl_n_34455.html)

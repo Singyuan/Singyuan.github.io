@@ -20,5 +20,6 @@ comments: true
 
   1. [Calculus-108](ta/calculus.html)<br>
   2. [Calculus-110](ta/calculus_110.html)<br>
-  3. [Geometry](ta/geometry.html)<br>
-  4. [LaTeX](ta/latex.html)
+  3. [Advanced Calculus-110](ta/adcalculus_110.html)<br>
+  4. [Geometry-108](ta/geometry.html)<br>
+  5. [LaTeX](ta/latex.html)

@@ -14,10 +14,6 @@ comments: true
 
 [Slides](/pdf/materials/ta/latex/intro2tex.pdf)
 
-[Temp-solu](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
-
-[Temp-Rabbe](/pdf/materials/ta/latex/supp_rabbe.pdf)
-
 ## Reference
 
 * [NTHU](http://www.cs.nthu.edu.tw/~cherung/teaching/2009cs5321/link/latex.pdf)
