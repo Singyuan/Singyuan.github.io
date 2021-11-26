@@ -12,20 +12,20 @@ comments: true
 
 ## Notes
 
-[Temp-chap2-hint](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
+[Chap2-hint](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
 
-[Temp-chap3-hint](/pdf/materials/ta/latex/hw-solu-chap3.pdf)
+[Chap3-hint](/pdf/materials/ta/latex/hw-solu-chap3.pdf)
 
-[Temp-Rabbe](/pdf/materials/ta/latex/supp_rabbe.pdf)
+[A Note of Rabbe's Test](/pdf/materials/ta/latex/supp_rabbe.pdf)
 
 ## Reference
 
-1. Rudin
+1. W. Rudin,  <i>Principles of Mathematical Analysis</i>.
 
 2. Reference for basic leaner
-  * Courant and John
-  * Folland
+  * R. Courant and F. John, <i>Introduction to Calculus and Analysis</i>
+  * G. Folland, <i>Advanced Calculus</i>
 
 3. Reference for topology
-  * John Lee
-  * Bredon
+  * John Lee, <i>Introduction to Topological Manifolds</i>
+  * G. Bredon, <i>Topology and Geometry</i>
