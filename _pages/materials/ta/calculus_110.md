@@ -30,7 +30,7 @@ comments: true
     <small>Include: definition of integral</small>
 
 5. Integrals: 
-    [12/10](/pdf/materials/ta/calculus110/1210.pdf) <br>
+    [12/9](/pdf/materials/ta/calculus110/1210.pdf) <br>
     <small>Include: Shell and Disk methods</small>
 
 ## Extension
