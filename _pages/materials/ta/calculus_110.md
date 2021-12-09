@@ -29,6 +29,10 @@ comments: true
     [11/25](/pdf/materials/ta/calculus110/1125_int.pdf) <br>
     <small>Include: definition of integral</small>
 
+5. Integrals: 
+    [12/10](/pdf/materials/ta/calculus110/1210.pdf) <br>
+    <small>Include: Shell and Disk methods</small>
+
 ## Extension
 
 [NTU Calculus website](http://www.math.ntu.edu.tw/~calc/cl_n_34455.html)
