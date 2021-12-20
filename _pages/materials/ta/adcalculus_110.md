@@ -18,6 +18,8 @@ comments: true
 
 [A Note of Rabbe's Test](/pdf/materials/ta/latex/supp_rabbe.pdf)
 
+[A Note of Taylor Thoerem](/pdf/materials/ta/latex/rmkoftaylor.pdf)
+
 ## Reference
 
 1. W. Rudin,  <i>Principles of Mathematical Analysis</i>.
