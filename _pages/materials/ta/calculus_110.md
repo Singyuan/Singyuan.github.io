@@ -33,6 +33,10 @@ comments: true
     [12/9](/pdf/materials/ta/calculus110/1210.pdf) <br>
     <small>Include: Shell and Disk methods</small>
 
+6. MISC: 
+    [12/23](/pdf/materials/ta/calculus110/1223.pdf) <br>
+    <small>Include: Probability and ode</small>
+
 ## Extension
 
 [NTU Calculus website](http://www.math.ntu.edu.tw/~calc/cl_n_34455.html)
