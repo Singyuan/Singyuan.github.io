@@ -37,6 +37,10 @@ comments: true
     [12/23](/pdf/materials/ta/calculus110/1223.pdf) <br>
     <small>Include: Probability and ode</small>
 
+7. Parametrization: 
+    [1/6](/pdf/materials/ta/calculus110/0105.pdf) <br>
+    <small>Include: arc-length</small>
+
 ## Extension
 
 [NTU Calculus website](http://www.math.ntu.edu.tw/~calc/cl_n_34455.html)
