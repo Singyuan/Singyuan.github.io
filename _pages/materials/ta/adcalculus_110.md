@@ -12,6 +12,12 @@ comments: true
 
 ## Notes
 
+1. Uniformly converge: [0222](/pdf/materials/ta/latex/0222.pdf)<br>
+  <small>Include: Heine–Borel theorem</small>
+
+2. Arzela-Ascoli Theorem: [0301](/pdf/materials/ta/latex/0301.pdf)<br>
+  <small>Include: Continuous functional space</small> 
+
 [Chap2-hint](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
 
 [Chap3-hint](/pdf/materials/ta/latex/hw-solu-chap3.pdf)
@@ -29,5 +35,10 @@ comments: true
   * G. Folland, <i>Advanced Calculus</i>
 
 3. Reference for topology
-  * John Lee, <i>Introduction to Topological Manifolds</i>
+  * J. Lee, <i>Introduction to Topological Manifolds</i>
   * G. Bredon, <i>Topology and Geometry</i>
+
+4. Reference for functional analysis
+  * J. Conway, <i>A Course in Functional Analysis</i>
+  * E. Kreyszig, <i>Introductory functional analysis with applications</i>
+  * B. Simon, <i>Functional Analysis: Methods of Modern Mathematical Physics</i>
