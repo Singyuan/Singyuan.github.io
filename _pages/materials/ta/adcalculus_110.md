@@ -12,11 +12,11 @@ comments: true
 
 ## Notes
 
-1. Uniformly converge: [0222](/pdf/materials/ta/latex/0222.pdf)<br>
-  <small>Include: Heine–Borel theorem</small>
+1. Uniformly converge (update): [0222](/pdf/materials/ta/latex/0222.pdf)<br>
+  <small>Include: Continuous functional space & Abel's theorem & Condition of derivative of sequence</small>
 
 2. Arzela-Ascoli Theorem: [0301](/pdf/materials/ta/latex/0301.pdf)<br>
-  <small>Include: Continuous functional space</small> 
+  <small>Include: Heine–Borel theorem</small> 
 
 [Chap2-hint](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
 
@@ -40,5 +40,5 @@ comments: true
 
 4. Reference for functional analysis
   * J. Conway, <i>A Course in Functional Analysis</i>
-  * E. Kreyszig, <i>Introductory functional analysis with applications</i>
+  * E. Kreyszig, <i>Introductory Functional Analysis with Applications</i>
   * B. Simon, <i>Functional Analysis: Methods of Modern Mathematical Physics</i>
