@@ -18,6 +18,9 @@ comments: true
 2. Arzela-Ascoli Theorem: [0301](/pdf/materials/ta/latex/0301.pdf)<br>
   <small>Include: Heine–Borel theorem</small> 
 
+3. Approximation Property: [0315](/pdf/materials/ta/latex/0315.pdf)<br>
+  <small>Include: Volterra operator</small> 
+
 [Chap2-hint](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
 
 [Chap3-hint](/pdf/materials/ta/latex/hw-solu-chap3.pdf)
