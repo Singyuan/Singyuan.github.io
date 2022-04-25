@@ -21,7 +21,7 @@ comments: true
 3. Approximation Property: [0315](/pdf/materials/ta/latex/0315.pdf)<br>
   <small>Include: Volterra operator</small>
 
-4. Fubini's Theorem: [0315](/pdf/materials/ta/latex/0426.pdf)<br>
+4. Fubini's Theorem: [0426](/pdf/materials/ta/latex/0426.pdf)<br>
   <small>Include: counterexample</small> 
 
 [Chap2-hint](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
@@ -48,3 +48,15 @@ comments: true
   * J. Conway, <i>A Course in Functional Analysis</i>
   * E. Kreyszig, <i>Introductory Functional Analysis with Applications</i>
   * B. Simon, <i>Functional Analysis: Methods of Modern Mathematical Physics</i>
+
+## Special Topics
+
+1. Reference for probability theory
+  * R. Vershynin, <i>High-Dimensional Probability.</i>
+
+2. Reference for random process
+  * J.R. Norris, <i>Markov chains.</i>
+
+3. Reference for matrix computation
+  * N. Higham, <i>Functions of Matrices: Theory and Computation</i>
+  * K. Petersen and M. Pedersen, <i>The Matrix Cookbook</i>
