@@ -19,7 +19,10 @@ comments: true
   <small>Include: Heine–Borel theorem</small> 
 
 3. Approximation Property: [0315](/pdf/materials/ta/latex/0315.pdf)<br>
-  <small>Include: Volterra operator</small> 
+  <small>Include: Volterra operator</small>
+
+4. Fubini's Theorem: [0315](/pdf/materials/ta/latex/0426.pdf)<br>
+  <small>Include: counterexample</small> 
 
 [Chap2-hint](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
 
