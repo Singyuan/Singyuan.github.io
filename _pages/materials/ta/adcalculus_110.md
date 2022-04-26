@@ -60,3 +60,6 @@ comments: true
 3. Reference for matrix computation
   * N. Higham, <i>Functions of Matrices: Theory and Computation</i>
   * K. Petersen and M. Pedersen, <i>The Matrix Cookbook</i>
+
+4. Reference for fourier transformation (wavelet transformation)
+ * S Mallat, A Wavelet Tour of Signal Processing the Sparse Way
