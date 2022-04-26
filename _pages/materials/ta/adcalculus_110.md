@@ -62,4 +62,8 @@ comments: true
   * K. Petersen and M. Pedersen, <i>The Matrix Cookbook</i>
 
 4. Reference for fourier transformation (wavelet transformation)
- * S Mallat, <i>A Wavelet Tour of Signal Processing the Sparse Way</i>
+ * S. Mallat, <i>A Wavelet Tour of Signal Processing the Sparse Way</i>
+
+5. Reference for optimization method
+  * S. Boyd and L. Vandenberghe, <i>Convex Optimization.</i>
+  * G. Cala ore and L. Ghaoui, <i>Optimization Models.</i>
