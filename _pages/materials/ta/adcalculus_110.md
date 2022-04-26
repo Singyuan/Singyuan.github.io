@@ -62,4 +62,4 @@ comments: true
   * K. Petersen and M. Pedersen, <i>The Matrix Cookbook</i>
 
 4. Reference for fourier transformation (wavelet transformation)
- * S Mallat, A Wavelet Tour of Signal Processing the Sparse Way
+ * S Mallat, <i>A Wavelet Tour of Signal Processing the Sparse Way</i>
