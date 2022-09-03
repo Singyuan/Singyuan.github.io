@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/NTU/AI_Image.html
-excerpt: This project cooperates with Dr. Weichung Wang and Chiatse Wang.
+excerpt: Supervised by Dr. Weichung Wang and Chiatse Wang.
 header:
   overlay_image: /images/projects/subheads.jpg
   overlay_filter: 0.5

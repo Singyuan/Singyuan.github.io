@@ -14,12 +14,15 @@ comments: true
   1. [Discrete Minimal Surface](ntu/conform.html)<br>
   2. [Summation by Part](ntu/mathmodel.html)<br>
   3. [Discrete Gaussian Curvature](ntu/gausscurv.html)<br>
-  4. [Diffusion Map](ntu/diffu.html)
+  4. [Diffusion Map](https://github.com/Singyuan/Diffusion-Map-MISC)
+  5. [Classical Optimization Methods](https://github.com/Singyuan/Classical-Optimization-Methods)
+  6. [Machine Learning 2022]()
 
 ## Teaching Assistant Courses:
 
-  1. [Calculus-108](ta/calculus.html)<br>
-  2. [Calculus-110](ta/calculus_110.html)<br>
-  3. [Mathematical Analysis-110](ta/adcalculus_110.html)<br>
-  4. [Geometry-108](ta/geometry.html)<br>
-  5. [LaTeX](ta/latex.html)
+  1. [Diffusion Map Summer Camp 2022](https://github.com/Singyuan/Summer-Camp-2022-in-Diffusion-Map)
+  2. [Mathematical Analysis-110](ta/adcalculus_110.html)
+  3. [Calculus-110](ta/calculus_110.html)
+  4. [Calculus-108](ta/calculus_108.html)
+  5. [Geometry-108](ta/geometry.html)
+  6. [LaTeX](ta/latex.html)

@@ -11,8 +11,6 @@ comments: true
 ---
 
 ## Diffusion map
-
-  
-
-  [Slides](/pdf/materials/ntu/diffu/expdiffu.pdf)<br>
+  1. [Course](https://github.com/Singyuan/Diffusion-Map-MISC)
+  2. [Summer Camp 2022](https://github.com/Singyuan/Summer-Camp-2022-in-Diffusion-Map)
 

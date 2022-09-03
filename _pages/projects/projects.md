@@ -10,6 +10,14 @@ author_profile: true
 comments: true
 ---
 
+## National Taiwan University : PhD student
+
+   1. [Spectral Convergence of Vector Diffusion Map](NTU/Spectral_Conv_VDM.html)<br>
+   2. [Predict Sleep Stages via Multi-Resolution Analysis](NTU/MRA.html)<br>
+
+## MediaTek Research
+   1. [Optimal Sample Complexity of Kernel Phased Parametric-Q Learning](MRTW/KPPQ.html)
+
 ## National Taiwan University
 
    1. [Numerical Simulation of Einstein Scalar Field Equations](NTU/Numerical_Relativity.html)<br>

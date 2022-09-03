@@ -12,25 +12,25 @@ comments: true
 
 ## Notes
 
-1. Uniformly converge (update): [0222](/pdf/materials/ta/latex/0222.pdf)<br>
+1. Uniformly converge (update): [0222](/pdf/materials/ta/adcalculus110/0222.pdf)<br>
   <small>Include: Continuous functional space & Abel's theorem & Condition of derivative of sequence</small>
 
-2. Arzela-Ascoli Theorem: [0301](/pdf/materials/ta/latex/0301.pdf)<br>
+2. Arzela-Ascoli Theorem: [0301](/pdf/materials/ta/adcalculus110/0301.pdf)<br>
   <small>Include: Heine–Borel theorem</small> 
 
-3. Approximation Property: [0315](/pdf/materials/ta/latex/0315.pdf)<br>
+3. Approximation Property: [0315](/pdf/materials/ta/adcalculus110/0315.pdf)<br>
   <small>Include: Volterra operator</small>
 
-4. Fubini's Theorem: [0426](/pdf/materials/ta/latex/0426.pdf)<br>
+4. Fubini's Theorem: [0426](/pdf/materials/ta/adcalculus110/0426.pdf)<br>
   <small>Include: counterexample</small> 
 
-[Chap2-hint](/pdf/materials/ta/latex/hw-solu-chap2.pdf)
+[Chap2-hint](/pdf/materials/ta/adcalculus110/hw-solu-chap2.pdf)
 
-[Chap3-hint](/pdf/materials/ta/latex/hw-solu-chap3.pdf)
+[Chap3-hint](/pdf/materials/ta/adcalculus110/hw-solu-chap3.pdf)
 
-[A Note of Rabbe's Test](/pdf/materials/ta/latex/supp_rabbe.pdf)
+[A Note of Rabbe's Test](/pdf/materials/ta/adcalculus110/supp_rabbe.pdf)
 
-[A Note of Taylor Thoerem](/pdf/materials/ta/latex/rmkoftaylor.pdf)
+[A Note of Taylor Thoerem](/pdf/materials/ta/adcalculus110/rmkoftaylor.pdf)
 
 ## Reference
 

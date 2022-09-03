@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/NTU/Numerical_Relativity.html
-excerpt: This project cooperates with Dr. Maopei Tsui (NTU)
+excerpt: Supervised by Dr. Mao-Pei Tsui (NTU)
 header:
   overlay_image: /images/projects/subheads.jpg
   overlay_filter: 0.5
