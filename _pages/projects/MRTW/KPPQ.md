@@ -25,8 +25,15 @@ According to above figure, given a state-action pair $$(s,a)$$, we hope to estim
 
 ## Introduction
 <b>Linear property</b> To deal with large state action pair, traditional method is to apply linear property, such as Yang & Wang [(2019)](https://arxiv.org/abs/1902.04779), which still focus on finite state action pair. The idea is as following given a $$D$$-dimensional feature space, the feature map $$\phi:\mathcal{S}\times\mathcal{A}\rightarrow \mathbb{R}^D$$. Exist $$\psi:\mathcal{S}\rightarrow\mathbb{R}^D$$ such that
-$$P(s'|s,a)=\phi(s,a)^\top \psi(s')=\phi_1(s,a)\psi_1(s')+\cdots+\phi_D(s,a)\psi_D(s')$$
-Since $$Q(s,a)=r(s,a)+\gamma \sum_{s'\in\mathcal{S}}P(s'|s,a)V(s')$$, then exist a vector $$w\in\mathbb{R}^D$$, such that $$Q_w=r(s,a)+\gamma\phi(s,a)^\top w$$. Moreover, we write $$\sum_{s'\in\mathcal{S}}P(s'|s,a)V(s'):=\gamma PV(s,a)$$.
+
+$$P(s'|s,a)=\phi(s,a)^\top \psi(s')=\phi_1(s,a)\psi_1(s')+\cdots+\phi_D(s,a)\psi_D(s')\,.$$
+
+
+Since $$Q(s,a)=r(s,a)+\gamma \sum_{s'\in\mathcal{S}}P(s'\vert s,a)V(s')$$, then exist a vector $$w\in\mathbb{R}^D$$, such that
+
+$$Q_w=r(s,a)+\gamma\phi(s,a)^\top w.$$
+
+Moreover, we write $$\sum_{s'\in\mathcal{S}}P(s'\vert s,a)V(s'):=\gamma PV(s,a)$$.
 
 <b>Kernel setting</b> Now, we generalize the finite dimensional feature space to infinite dimensional space (reproducing kernel Hilbert space) via kernel method. Since reproducing kernel Hilbert space (RKHS) belongs to $$L^2(\mathcal{S}\times\mathcal{A})$$ so that we can generalize to infinite state action pair.
 <center>
