@@ -20,9 +20,10 @@ comments: true
 
 ## Teaching Assistant Courses:
 
-  1. [Diffusion Map Summer Camp 2022](https://github.com/Singyuan/Summer-Camp-2022-in-Diffusion-Map)
-  2. [Mathematical Analysis-110](ta/adcalculus_110.html)
-  3. [Calculus-110](ta/calculus_110.html)
-  4. [Calculus-108](ta/calculus_108.html)
-  5. [Geometry-108](ta/geometry.html)
-  6. [LaTeX](ta/latex.html)
+  1. [Mathematical Analysis-111](ta/adcalculus_111.html)
+  2. [Diffusion Map Summer Camp 2022](https://github.com/Singyuan/Summer-Camp-2022-in-Diffusion-Map)
+  3. [Mathematical Analysis-110](ta/adcalculus_110.html)
+  4. [Calculus-110](ta/calculus_110.html)
+  5. [Calculus-108](ta/calculus_108.html)
+  6. [Geometry-108](ta/geometry.html)
+  7. [LaTeX](ta/latex.html)
