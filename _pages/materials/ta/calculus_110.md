@@ -5,7 +5,7 @@ excerpt: "This course is the fundamental tools of analysis."
 header:
   overlay_image: /images/materials/subheads.jpg
   overlay_filter: 0.5
-title: "Calculus"
+title: "Calculus 110"
 author_profile: true
 comments: true
 ---
