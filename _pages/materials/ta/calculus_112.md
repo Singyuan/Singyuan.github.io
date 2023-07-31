@@ -16,6 +16,14 @@ comments: true
     [7/25](/pdf/materials/ta/calculus112/7_25.pdf) <br>
     <small>Include: Continuous & Derivatives & Asymptotes</small>
 
+2. Implicit Derivative : 
+    [8/1](/pdf/materials/ta/calculus112/8_1.pdf) <br>
+    <small>Include: derivative inverse function</small>
+
+2. Linearization : 
+    [8/2](/pdf/materials/ta/calculus112/8_2.pdf) <br>
+    <!-- <small>Include: derivative inverse function</small> -->
+
 
 
 ## Extension
