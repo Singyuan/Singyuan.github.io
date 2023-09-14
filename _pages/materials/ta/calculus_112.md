@@ -16,6 +16,10 @@ comments: true
     [9/7](/pdf/materials/ta/calculus112/9_7.pdf) <br>
     <small>Include: only limits</small>
 
+2. Continuous & Derivatives
+    [9/14](/pdf/materials/ta/calculus112/9_14.pdf) <br>
+    <small>Include: only limits</small>
+
 
 
 ## Extension
