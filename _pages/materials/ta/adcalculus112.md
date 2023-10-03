@@ -14,3 +14,14 @@ comments: true
 
 1. Completeness and Archimedean Property : 
     [10/3](https://hackmd.io/@singyuan/BkL-kIOgT) <br>
+
+## References
+
+* [MH] J. Marsden & M. Hoffman, _Elementary Classical Analysis_
+* [R] W. Rudin, _Principles of Mathematical Analysis_
+* [W] W. Wade, _Introduction to Analysis_
+* [DD] K. Davidson & A. Donsig, _Real Analysis With Real Applications_
+* [F] G. Folland, _Advanced Calculus_
+* [CJ] R. Courant & F. John, _Introduction to Calculus and Analysis_
+* [SS] E. Stein & R. Shakarchi, _Fourier Analysis: An Introduction_
+* [L] J. Lee, _Introduction to Topological Manifolds_
