@@ -5,7 +5,7 @@ excerpt: "This course is the fundamental tools of analysis."
 header:
   overlay_image: /images/materials/subheads.jpg
   overlay_filter: 0.5
-title: "Calculus 112 (Summer Session)"
+title: "Calculus 112"
 author_profile: true
 comments: true
 ---
@@ -14,11 +14,12 @@ comments: true
 
 1. Limits : 
     [9/7](/pdf/materials/ta/calculus112/9_7.pdf) <br>
-    <small>Include: only limits</small>
 
 2. Continuous & Derivatives
     [9/14](/pdf/materials/ta/calculus112/9_14.pdf) <br>
-    <small>Include: only limits</small>
+
+3. Implicit differentiation & Linearization & Extreme value
+    [9/14](/pdf/materials/ta/calculus112/10_5.pdf) <br>
 
 
 
