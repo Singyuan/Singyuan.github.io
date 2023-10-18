@@ -19,7 +19,10 @@ comments: true
     [9/14](/pdf/materials/ta/calculus112/9_14.pdf) <br>
 
 3. Implicit differentiation & Linearization & Extreme value
-    [9/14](/pdf/materials/ta/calculus112/10_5.pdf) <br>
+    [10/5](/pdf/materials/ta/calculus112/10_5.pdf) <br>
+
+3. Implicit differentiation & Linearization & Extreme value & MVT
+    [10/19](/pdf/materials/ta/calculus112/10_19.pdf) <br>
 
 
 
