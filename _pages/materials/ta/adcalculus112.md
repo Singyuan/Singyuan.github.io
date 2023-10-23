@@ -15,6 +15,9 @@ comments: true
 1. Completeness and Archimedean Property : 
     [10/3](https://hackmd.io/@singyuan/BkL-kIOgT) <br>
 
+2. Limit Supremum and Limit Infimum : 
+    [10/24](/pdf/materials/ta/adcalculus112/1024.pdf) <br>
+
 ## References
 
 * [MH] J. Marsden & M. Hoffman, _Elementary Classical Analysis_
