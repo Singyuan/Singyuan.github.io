@@ -27,6 +27,9 @@ comments: true
 4. Review
     [10/26](/pdf/materials/ta/calculus112/10_26.pdf) <br>
 
+5. Integral (Riemann Sum & FTOC & MVT)
+    [10/26](/pdf/materials/ta/calculus112/11_23.pdf) <br>
+
 
 
 ## Extension
