@@ -33,6 +33,10 @@ comments: true
 6. Improper Integral
     [11/30](/pdf/materials/ta/calculus112/11_30.pdf) <br>
 
+7. Review
+    [11/30](/pdf/materials/ta/calculus112/12_14.pdf) <br>
+    <small>Include: comparison test & improper integral containing two limit</small>
+
 
 
 ## Extension
