@@ -13,7 +13,16 @@ comments: true
 ## National Taiwan University : PhD student
 
    1. [Spectral Convergence of Vector Diffusion Map](NTU/Spectral_Conv_VDM.html)<br>
-   2. [Predict Sleep Stages via Multi-Resolution Analysis](NTU/MRA.html)<br>
+   2. [Speed Up Alternating Diffusion Maps](NTU/LAD.html)<br>
+   3. [Higher Order Synchrosqueezed Chirplet Transforms](NTU/MRA.html)<br>
+   4. [Bayesian Shrinkage Estimation for Persistent Diagram](NTU/bayesian_PD.html)<br>
+
+## National Taiwan University x Linkou Chang-Gung Memorial Hospital
+   1. [Predict Sleep Stages via Multi-Resolution Analysis](NTU/MRA.html)<br>
+   2. [Multitaper Higher Order Synchrosqueezed S-Transform for Beta Band](NTU/MTSSST.html)<br>
+
+## DataHub
+   1. [Single Parent Data Analysis](NTU/single.html)<br>
 
 ## MediaTek Research
    1. [Optimal Sample Complexity of Kernel Phased Parametric-Q Learning](MRTW/KPPQ.html)
