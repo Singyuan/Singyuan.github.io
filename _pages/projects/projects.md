@@ -14,7 +14,7 @@ comments: true
 
    1. [Spectral Convergence of Vector Diffusion Map](NTU/Spectral_Conv_VDM.html)<br>
    2. [Speed Up Alternating Diffusion Maps](NTU/LAD.html)<br>
-   3. [Higher Order Synchrosqueezed Chirplet Transforms](NTU/MRA.html)<br>
+   3. [Higher Order Synchrosqueezed Chirplet Transforms](NTU/HSCT.html)<br>
    4. [Bayesian Shrinkage Estimation for Persistent Diagram](NTU/bayesian_PD.html)<br>
 
 ## National Taiwan University x Linkou Chang-Gung Memorial Hospital
