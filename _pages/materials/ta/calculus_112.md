@@ -34,8 +34,12 @@ comments: true
     [11/30](/pdf/materials/ta/calculus112/11_30.pdf) <br>
 
 7. Review
-    [11/30](/pdf/materials/ta/calculus112/12_14.pdf) <br>
+    [12/14](/pdf/materials/ta/calculus112/12_14.pdf) <br>
     <small>Include: comparison test & improper integral containing two limit</small>
+
+8. Parametric Equations (Curve)
+    [2/22](/pdf/materials/ta/calculus112/2_22.pdf) <br>
+    <small>Include: Brachistochrone shortest-time path</small>
 
 
 
