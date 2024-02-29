@@ -41,7 +41,7 @@ comments: true
     [2/22](/pdf/materials/ta/calculus112/2_22.pdf) <br>
     <small>Include: Brachistochrone shortest-time path</small>
 
-8. Differentiable (Curve)
+8. Differentiable
     [2/29](/pdf/materials/ta/calculus112/2_29.pdf) <br>
 
 
