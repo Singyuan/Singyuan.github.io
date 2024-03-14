@@ -44,6 +44,9 @@ comments: true
 8. Differentiable
     [2/29](/pdf/materials/ta/calculus112/2_29.pdf) <br>
 
+8. Lagrange Multiplier
+    [3/14](/pdf/materials/ta/calculus112/3_14.pdf) <br>
+
 
 
 ## Extension
