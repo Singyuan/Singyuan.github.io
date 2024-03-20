@@ -47,6 +47,9 @@ comments: true
 8. Lagrange Multiplier
     [3/14](/pdf/materials/ta/calculus112/3_14.pdf) <br>
 
+8. Review (01-04)
+    [3/19](/pdf/materials/ta/calculus112/3_19.pdf) <br>
+
 
 
 ## Extension
