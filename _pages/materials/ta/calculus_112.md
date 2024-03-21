@@ -41,14 +41,17 @@ comments: true
     [2/22](/pdf/materials/ta/calculus112/2_22.pdf) <br>
     <small>Include: Brachistochrone shortest-time path</small>
 
-8. Differentiable
+9. Differentiable
     [2/29](/pdf/materials/ta/calculus112/2_29.pdf) <br>
 
-8. Lagrange Multiplier
+10. Lagrange Multiplier
     [3/14](/pdf/materials/ta/calculus112/3_14.pdf) <br>
 
-8. Review (01-04)
+11. Review (01-04)
     [3/19](/pdf/materials/ta/calculus112/3_19.pdf) <br>
+
+12.  Lagrange Multiplier
+    [3/21](/pdf/materials/ta/calculus112/3_21.pdf) <br>
 
 
 
