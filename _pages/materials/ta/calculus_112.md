@@ -51,7 +51,7 @@ comments: true
     [3/19](/pdf/materials/ta/calculus112/3_19.pdf) <br>
 
 12.  Lagrange Multiplier
-    [3/21](/pdf/materials/ta/calculus112/3_21.pdf) <br>
+    [3/21](/pdf/materials/ta/calculus112/3_22.pdf) <br>
 
 
 
