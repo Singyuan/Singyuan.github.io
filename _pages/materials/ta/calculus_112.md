@@ -52,6 +52,7 @@ comments: true
 
 12.  Lagrange Multiplier
     [3/21](/pdf/materials/ta/calculus112/3_22.pdf) <br>
+    [TA Pei-Cheng video](https://www.youtube.com/watch?v=UmbMh7cOXM0) for Question 7 (same as WW 2 Exercise 4 (c))
 
 
 
