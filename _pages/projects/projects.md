@@ -10,6 +10,12 @@ author_profile: true
 comments: true
 ---
 
+## MediaTek Research
+   1. [Optimal Sample Complexity of Kernel Phased Parametric-Q Learning](MRTW/KPPQ.html)
+
+## Delta Electronics (Wujiang) - Delta Smart Manufacturing R&D Center
+   1. [Intelligent Process Automation for HSK Pick-and-Place Operations](Delta/pnp)<br>
+
 ## National Taiwan University : PhD student
 
    1. [Spectral Convergence of Vector Diffusion Map](NTU/Spectral_Conv_VDM.html)<br>
@@ -19,20 +25,18 @@ comments: true
 
 ## National Taiwan University x Linkou Chang-Gung Memorial Hospital
    1. [Predict Sleep Stages via Multi-Resolution Analysis](NTU/MRA.html)<br>
-   2. [Multitaper Higher Order Synchrosqueezed S-Transform for Beta Band](NTU/MTSSST.html)<br>
+   2. [Multitaper Higher Order Synchrosqueezed S-Transform for Beta Band](./../../../pdf/projects/NTU/ConceST/ConceST.pdf)<br>
 
 ## DataHub
-   1. [Single Parent Data Analysis](NTU/single.html)<br>
-
-## MediaTek Research
-   1. [Optimal Sample Complexity of Kernel Phased Parametric-Q Learning](MRTW/KPPQ.html)
+   1. [Single Parent Data Analysis](https://datahubtaiwan.com/)<br>
+   2. [Farm Work Log: Developing RESTful APIs with Java and Spring Boot](https://github.com/Singyuan/Selvans_Full-Stack_Project)
 
 ## National Taiwan University
 
    1. [Numerical Simulation of Einstein Scalar Field Equations](NTU/Numerical_Relativity.html)<br>
    2. [AI for Medical Image Analysis](NTU/AI_Image.html)<br>
 
-## IBM Thomas J. Watson Research Center
+## IBM Thomas J. Watson Research Center (New York)
 
    1. [Data Parallelism Acceleration on Speech Recognition and Synthesis Algorithm](IBM/Data_Parallelism_ML.html) (TTS algorithm)<br>
 

@@ -10,6 +10,11 @@ author_profile: true
 comments: true
 ---
 
+## Material
+ The slides are extracted from my PhD proposal. For the official conference presentation slides, please refer to the official 2023 AISTATS website.
+ - [AISTATS Paper](https://proceedings.mlr.press/v206/yeh23a/yeh23a.pdf)
+ - [Slides](./../../../pdf/projects/MRTW/KQLearn.pdf)
+
 ## Notation
 <center>
     <img src="/images/projects/kppq/intr.png" width="500" alt="diag of sf"/>

@@ -10,6 +10,9 @@ author_profile: true
 comments: true
 ---
 
+## Material
+ [Paper in submission](https://arxiv.org/abs/2302.00727)
+
 ## Introduction
 **Chirplet Transforms.** The chirplet transform is an inner product of an input signal with a family of analysis primitives called chirplets. The chirplet transform of $$f\in L^2(\mathbb{R})$$ given a window function $$g$$ at $$(t, \xi, \lambda)$$ is defined as
 
@@ -55,7 +58,3 @@ $$\begin{aligned}
 1. Z. Chen & H.-T. Wu, _Disentangling modes with crossover instantaneous frequencies by synchrosqueezed chirplet transforms, from theory to application_, (2023).
 2. I. Daubechies, J. Lu & H.-T. Wu, _Synchrosqueezed wavelet transforms: An empirical mode decomposition-like tool_, (2011).
 3. S. Mann & S. Haykin, _The chirplet transform: physical considerations_, (1995).
-
-
-## Material
-TBA in Feb.
