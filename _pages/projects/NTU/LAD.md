@@ -11,7 +11,8 @@ comments: true
 ---
 
 ## Material
- - [Paper in revision](https://arxiv.org/abs/2404.19649)
+ - [Paper](https://doi.org/10.1137/24M1656682)
+ - [GitHub](https://github.com/Singyuan/Landmark_Alternating_Diffusion)
  - [Slides](./../../../pdf/projects/NTU/LAD/LAD_slides.pdf)
  - [Poster in MATLAB & Simulink Conference](./../../../pdf/projects/NTU/LAD/LAD_poster.pdf)
 
