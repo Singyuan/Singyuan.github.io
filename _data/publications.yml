@@ -1,0 +1,107 @@
+# One source for the CV list on the homepage and the detailed publications page.
+# Add a record with category: journal, conference, or preprint. Each category is
+# sorted by year in the page templates. On the homepage the reversed data order
+# puts preprints first within each year.
+- title: "High-Order Synchrosqueezed Chirplet Transforms for Multicomponent Signal Analysis"
+  authors: "Yi-Ju Yen, De-Yan Lu, Sing-Yuan Yeh, Jian-Jiun Ding, and Chun-Yen Shen"
+  authors_short: "Y.-J. Yen, D.-Y. Lu, “S.-Y. Yeh”, J.-J. Ding, and C.-Y. Shen"
+  venue: "Applied and Computational Harmonic Analysis, 82, 101839"
+  year: 2026
+  category: journal
+  description: "A higher-order synchrosqueezed chirplet transform improves the analysis of multicomponent signals whose instantaneous frequencies cross, especially under strong chirp modulation."
+  keywords:
+    - "signal processing"
+    - "time-frequency analysis"
+    - "synchrosqueezing"
+    - "chirplet transforms"
+  links:
+    - label: "Link"
+      url: "https://doi.org/10.1016/j.acha.2025.101839"
+    - label: "PDF"
+      url: "/pdf/publications/HSCT.pdf"
+
+- title: "Landmark Alternating Diffusion"
+  authors: "Sing-Yuan Yeh, Hau-Tieng Wu, Ronen Talmon, and Mao-Pei Tsui"
+  authors_short: "“S.-Y. Yeh”, H.-T. Wu, R. Talmon, and M.-P. Tsui"
+  venue: "SIAM Journal on Mathematics of Data Science, 7(2), 621–642"
+  year: 2025
+  category: journal
+  description: "Landmark alternating diffusion makes multimodal sensor fusion more computationally efficient while retaining its manifold-based structure; the paper includes theory and a sleep-stage annotation application."
+  keywords:
+    - "manifold learning"
+    - "multimodal data"
+    - "sensor fusion"
+    - "diffusion maps"
+    - "landmark methods"
+  links:
+    - label: "Link"
+      url: "https://doi.org/10.1137/24M1656682"
+    - label: "PDF"
+      url: "/pdf/publications/LAD.pdf"
+    - label: "Supplement"
+      url: "/pdf/publications/LAD_supplement.pdf"
+    - label: "Code"
+      url: "https://github.com/Singyuan/Landmark_Alternating_Diffusion"
+    - label: "Poster"
+      url: "/pdf/projects/NTU/LAD/LAD_poster.pdf"
+    - label: "Slides"
+      url: "/pdf/projects/NTU/LAD/LAD_slides.pdf"
+
+- title: "Sample Complexity of Kernel-Based Q-Learning"
+  authors: "Sing-Yuan Yeh, Fu-Chieh Chang, Chang-Wei Yueh, Pei-Yuan Wu, Alberto Bernacchia, and Sattar Vakili"
+  authors_short: "“S.-Y. Yeh”, F.-C. Chang, C.-W. Yueh, P.-Y. Wu, A. Bernacchia, and S. Vakili"
+  venue: "Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 206"
+  year: 2023
+  category: conference
+  description: "We analyze kernel-based Q-learning with a generative model and give sample-complexity guarantees for large, potentially infinite state-action spaces."
+  keywords:
+    - "reinforcement learning"
+    - "kernel methods"
+    - "Q-learning"
+    - "sample complexity"
+  links:
+    - label: "Link"
+      url: "https://proceedings.mlr.press/v206/yeh23a.html"
+    - label: "PDF"
+      url: "/pdf/publications/Q_learn.pdf"
+    - label: "Slides"
+      url: "/pdf/projects/MRTW/KQLearn.pdf"
+
+- title: "Accelerate Vector Diffusion Maps by Landmarks"
+  authors: "Sing-Yuan Yeh, Yi-An Wu, Hau-Tieng Wu, and Mao-Pei Tsui"
+  authors_short: "“S.-Y. Yeh”, Y.-A. Wu, H.-T. Wu, and M.-P. Tsui"
+  venue: "arXiv:2603.21247"
+  year: 2026
+  category: preprint
+  description: "Landmark-accelerated vector diffusion maps use a two-stage normalization for nonuniform sampling and converge to the connection Laplacian under a manifold model."
+  keywords:
+    - "manifold learning"
+    - "vector diffusion maps"
+    - "connection Laplacian"
+    - "landmark methods"
+  links:
+    - label: "Link"
+      url: "https://arxiv.org/abs/2603.21247"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2603.21247"
+
+- title: "Uncertainty of Network Topology with Applications to Out-of-Distribution Detection"
+  authors: "Sing-Yuan Yeh and Chun-Hao Yang"
+  authors_short: "“S.-Y. Yeh” and C.-H. Yang"
+  venue: "arXiv:2511.18813; submitted for journal publication"
+  year: 2025
+  category: preprint
+  description: "Predictive topological uncertainty summarizes how a Bayesian neural network interacts with its inputs and supports a significance test for out-of-distribution detection."
+  keywords:
+    - "topological data analysis"
+    - "Bayesian neural networks"
+    - "out-of-distribution detection"
+    - "uncertainty quantification"
+    - "persistent homology"
+  links:
+    - label: "Link"
+      url: "https://arxiv.org/abs/2511.18813"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2511.18813"
+    - label: "Slides"
+      url: "/pdf/publications/NCKU_seminar.pdf"

@@ -1,0 +1,2 @@
+{% assign official_link = include.publication.links | first %}
+<p>[{{ include.number }}] {{ include.publication.authors_short | escape }}, <em>{{ include.publication.title | escape }}</em>, {{ include.publication.venue | escape }} ({{ include.publication.year }}). <a href="{{ official_link.url }}" rel="noopener noreferrer">Link</a></p>

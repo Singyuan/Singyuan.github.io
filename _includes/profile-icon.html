@@ -1,0 +1,18 @@
+<svg aria-hidden="true" focusable="false" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.125em">
+  {% case include.name %}
+  {% when 'location' %}
+    <path d="M20 10c0 5-8 11-8 11S4 15 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/>
+  {% when 'Google Scholar' %}
+    <path d="m2 9 10-5 10 5-10 5L2 9Z"/><path d="M6 11v5c2 2 10 2 12 0v-5M22 9v7"/>
+  {% when 'ORCID' %}
+    <circle cx="12" cy="12" r="10"/><circle cx="8" cy="8" r=".8" fill="currentColor" stroke="none"/><path d="M8 11v6M12 17v-6h2a3 3 0 0 1 0 6h-2Z"/>
+  {% when 'LinkedIn' %}
+    <rect x="2" y="2" width="20" height="20" rx="3"/><path d="M7 10v7M7 7h.01M11 17v-7M11 13a3 3 0 0 1 6 0v4"/>
+  {% when 'GitHub' %}
+    <circle cx="12" cy="12" r="10"/><path d="m9 9-3 3 3 3m6-6 3 3-3 3m-2-8-2 10"/>
+  {% when 'email' %}
+    <rect x="2" y="5" width="20" height="14" rx="2"/><path d="m3 7 9 7 9-7"/>
+  {% else %}
+    <path d="M10 13a5 5 0 0 0 7.5.5l2-2a5 5 0 0 0-7-7l-1.2 1.2M14 11a5 5 0 0 0-7.5-.5l-2 2a5 5 0 0 0 7 7l1.2-1.2"/>
+  {% endcase %}
+</svg>

@@ -6,3 +6,16 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Keep the off-centre portrait focused on the face inside the circular avatar.
+.author__avatar img {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  object-position: 70% center;
+
+  @include breakpoint($large) {
+    width: 110px;
+    height: 110px;
+  }
+}

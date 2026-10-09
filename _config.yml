@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Singyuan's Blog"
+title                    : "Sing-Yuan Yeh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Singyuan Yeh"
-description              : "Myself blog."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Sing-Yuan Yeh"
+description              : "Academic website of Sing-Yuan Yeh, Assistant Professor of Mathematics at National Central University."
+url                      : "https://singyuan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,53 +93,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Singyuan Yeh"
-  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student"
-  location         : "Taiwan"
-  email            : "yeh76385@gmail.com"
+  name             : "Sing-Yuan Yeh"
+  avatar           : "/images/head.jpg" # portrait supplied in pic/head.jpg
+  bio              : "Assistant Professor of Mathematics<br>National Central University"
+  location         : "Taoyuan, Taiwan"
+  location_url     : "https://maps.app.goo.gl/Q5GhQXXtgGTwVB6A7"
+  email            : "syyeh@math.ncu.edu.tw"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: yeh76385@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/yeh76385"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=9iwqaXYAAAAJ"
+    - label: "ORCID"
+      url: "https://orcid.org/0009-0008-4595-5106"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/sing-yuan-yeh-68b4a7230"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       url: "https://github.com/Singyuan"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/wasisingyuan/"
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yeh76385"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/wasisingyuan/"
-
 
 # Reading Files
 include:
@@ -207,14 +175,11 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -222,7 +187,6 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
